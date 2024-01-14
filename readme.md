@@ -52,6 +52,9 @@ The certification is structured as follows:
 - **02_Luhn-algorithm:**
   - The Luhn Algorithm is widely used for error-checking in various applications, such as verifying credit card numbers. Upon building this project, we'll gain experience working with numerical computations and string manipulation.
 
+- **03_Expense-tracker:**
+  - In this project, we'll explore the power of Lambda Functions by creating an expense tracker. The resulting app will demonstrate how we can use Lambda Functions for efficient, streamlined operations.
+
 
 
 ## Certification Completion
