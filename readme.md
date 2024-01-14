@@ -1,4 +1,4 @@
-![Cover Image](assets\github-cover.png)
+![Cover Image](https://github.com/ash-codess/Scientific-Computing-with-Python/blob/master/assets/github-cover.png)
 ---
 
 Python is one of the most popular, flexible programming languages today. You can use it for everything from basic scripting to machine learning.
