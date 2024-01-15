@@ -58,6 +58,10 @@ The certification is structured as follows:
 - **04_Case-convertor:**
   - List Comprehension is a way to construct a new Python list from an iterable types: lists, tuples, and strings. All without using a for loop or the `.append()` list method. In this project, we'll write a program that takes a string formatted in Camel Case or Pascal Case, then converts it into Snake Case.
 
+- **05_Password-generator:**
+  - In this project, we'll learn how to import modules from the Python standard library. we'll also learn how to use Regular Expressions by building our own password generator program.
+
+
 
 
 ## Certification Completion
