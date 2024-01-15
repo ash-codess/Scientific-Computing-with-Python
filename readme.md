@@ -55,6 +55,9 @@ The certification is structured as follows:
 - **03_Expense-tracker:**
   - In this project, we'll explore the power of Lambda Functions by creating an expense tracker. The resulting app will demonstrate how we can use Lambda Functions for efficient, streamlined operations.
 
+- **04_Case-convertor:**
+  - List Comprehension is a way to construct a new Python list from an iterable types: lists, tuples, and strings. All without using a for loop or the `.append()` list method. In this project, we'll write a program that takes a string formatted in Camel Case or Pascal Case, then converts it into Snake Case.
+
 
 
 ## Certification Completion
