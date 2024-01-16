@@ -61,6 +61,9 @@ The certification is structured as follows:
 - **05_Password-generator:**
   - In this project, we'll learn how to import modules from the Python standard library. we'll also learn how to use Regular Expressions by building our own password generator program.
 
+- **06_Shortest-path-algorithm:**
+  - In this project, we'll learn how to use functions, loops, conditional statements, and dictionary comprehensions to implement a Shortest Path algorithm.
+
 
 
 
