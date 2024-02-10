@@ -3,7 +3,7 @@
 
 Python is one of the most popular, flexible programming languages today. You can use it for everything from basic scripting to machine learning.
 
-In the Scientific Computing with Python Certification, we'll learn Python fundamentals like variables, loops, conditionals, and functions. Then we'll quickly ramp up to complex data structures, networking, relational databases, and data visualization.
+In the Scientific Computing with Python Certification, we'll learn Python fundamentals like variables, loops, conditionals, and functions. Then we'll quickly ramp up to data structures.
 
 ## Certification Overview
 
@@ -15,14 +15,6 @@ In this certification, you will cover the following key areas:
    - Conditionals
    - Functions
 
-2. **Advanced Python:**
-   - Complex Data Structures
-   - Networking
-   - Relational Databases
-
-3. **Data Visualization:**
-   - Introduction to Data Visualization
-   - Matplotlib and Seaborn
 
 ## Getting Started
 
@@ -63,6 +55,18 @@ The certification is structured as follows:
 
 - **06_Shortest-path-algorithm:**
   - In this project, we'll learn how to use functions, loops, conditional statements, and dictionary comprehensions to implement a Shortest Path algorithm.
+
+- **07_Tower-of-hanoi:**
+  - In this we'll start with a loop-based approach to solving the tower of Hanoi mathematical puzzle. Then we'll learn how to implement a recursive solution.
+
+- **08_Merge-sort:**
+  - we'll learn how to interact with data structures by sorting a list of random numbers using the Merge Sort Algorithm.
+
+- **09_Sudoku-Solver:**
+  - In this Sudoku Solver project, you'll learn how to use classes and objects to build a Sudoku grid and to solve a Sudoku puzzle.
+
+- **10_Binary-search-tree:**
+  - In this project, we'll learn how to construct your own BST and perform an in-order traversal. 
 
 
 
