@@ -66,7 +66,7 @@ The certification is structured as follows:
   - In this Sudoku Solver project, you'll learn how to use classes and objects to build a Sudoku grid and to solve a Sudoku puzzle.
 
 - **10_Binary-search-tree:**
-  - In this project, we'll learn how to construct your own BST and perform an in-order traversal. 
+  - In this project, we'll learn how to construct our own BST and perform an in-order traversal. 
 
 
 
